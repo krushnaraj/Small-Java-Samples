@@ -1,0 +1,1 @@
+set path=C:\jdk1.3\bin;C:\WINDOWS\system32;
